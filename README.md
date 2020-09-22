@@ -97,4 +97,6 @@ Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+La  practica 2  me gustó porque nos envolvimos mucho en el diseño de tarjetas, la unica parte que me disgustó fue de acomodar todo en su lugar.
+La parte que siento que me servira más es la parte donde elegí los componente para poderlos en la tarjeta, me sirvió para poder indentificar como son los simpolos de los componentes y el 3d viwer para ver  como son en la vida real los componentes. Fue de gran utilidad ya que en un futuro este tipo de programa lo podremos utilizar para  un futuro. La practica 3 fue muy sencilla, nos explican como verificar que lo que se hizo con las conexiones este bien y cambiamos unas configuraciones del programa.
+Algo en lo que sigo teniendo conflicto es en subir todo a github, me revuelvo en las instrucciones y en todo lo que hay que subir. Desde mi punto de vista creo que esto es lo más dificil de todo. 
